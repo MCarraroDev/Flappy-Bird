@@ -220,3 +220,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 pyvenv.cfg
+lib64
