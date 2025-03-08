@@ -1,10 +1,10 @@
 # 🐦 Flappy Bird in Python
 
-Un clone del famoso gioco Flappy Bird realizzato in Python utilizzando PyGame. Perfetto per chi sta imparando a programmare!
+Un clone del famoso gioco Flappy Bird realizzato in Python utilizzando PyGame. Progetto perfetto per chi ama i giochi e vuole programmare qualcosa in Python!
 
 ## 📋 Requisiti
 - Python 3.x
-- PyGame
+- PyGame / pygame-ce (preferibile)
 
 ## 💻 Installazione
 
@@ -42,8 +42,8 @@ python3 -m pip install -r requirements.txt
    - Q: Esci dal gioco
 
 ## 🎵 Musica
-- Individua una cartella `music`
-- Inserisci i tuoi file musicali (.mp3, .wav)
+- Individua la cartella `music`
+- Inserisci i tuoi file musicali (.mp3, .wav, etc)
 - Attiva/disattiva la musica dal menu di gioco
 
 ## 🛠️ Personalizzazione
